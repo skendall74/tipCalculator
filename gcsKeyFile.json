@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "twiliostorage",
+  "private_key_id": "de4c587b11ef3a8f8c64a9f355dc408a3ec3dfb4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDmCI36sYKuyGYN\ntUh5ojGOlXr6ych4wcfnkSKQ+5Pi96RPM01JYFPWuQB4Di3IiTnbg12xN6zSLPNq\nRXQfOGnrKnBwFW+VKVfe0rC/Ch+PIUO7FPrD2Z1TW+LigENL1ZXwwORjN4gLOste\nUNbGay9oH3yzVv7aCGFRCWOIJKEiE4jLQ5EAFYEAUVr1mQbaqo12ior/xtA3XvvH\nCa9P3pLTNI9vtH9F+rYpAVaBjCD7fZ17Iw0K9faK2+ZwvhNMz8bkNcBl3pDTgycN\nXwzh9bsAnn9GrCGfL/7F/UMRWAsp7MXnkbepyYIgIDv2WRQmS4F53YikV6UCD8u3\nfCeGAynbAgMBAAECggEABBZd03kI/esQqSix93tSzxpH26HvPnoO/8Xb6+CUgaFt\n2XxrYKTmCHg0Em4KETii/wwIA6ieGQP0dUxzokRh2WxhIBS5bViVN5/dxR88bVIl\nfnMCe61ntr34u5aU24mZhvQeesbXU3/BclUUY+Uuq/Z3REaE88HXXNXCX35rIIxY\nr4cXOWEN+auW5R86CMHzIds6B9X3z1VI16SMYoJ+y9fMBaNvjwEna4ZsIdFGFjGz\nrw3G4iZlyXQYV0YQ6/MF8NX6dtJqd83qIVfQn8CJ5hIl6skQGFVburIUpzW9GOiX\nyPLWMolNI3fa0xfXRHHQh94CP3OwWHmw0FR2Ef24kQKBgQD1i9UPt+sS45gE0SUD\nmIDojb6luVLIFozEMDru6JwhN/AcG/b/R/C+DjhaZ/bIkTac9gvPVDOGl9X5pzij\nP9KNTLBYgKnq10BJs5xPheq6NFxeuos90mqVs63AyN3J2T9zGZMmp1Mmu63mcOIc\nrWfJX2g4Qm8UwAexfQ0vmuGa6wKBgQDv06aeMnNWikxkmushRQYqLFFAYkNOTMSM\ndku5Bqrorwg+sL2RCvZrlurqPYwiH1wF9afoUsgqu8KXFGVokql9xbRijaCGR80L\n5j+dP6X0doL7TLW+490/uvebgB68SA/Ej6TXRoCKfPW7bVswIJtl9E7RNyoCbVTf\nMpGdWy8Q0QKBgQDldyjESK8A9vowvjal9pW5PgWFH/xRimlASoY4j96gWIMl8ahQ\nhq1fHzDgo7mHU9VCt9jvhxOj2y8W4IPYY6NjcuB1xL+F/GRSu+v+kPp7ysTrrc7E\nFmiOv9xHhi9mG4TlDmhqvgHB97Aa4zEbdZ3BHUzrDoJ6VL6bym5RJ59fwwKBgQDf\ntQHa1xyXQPH5djiWFBioBibUc9RsmVdN3prLwNhzq7F5KMvrG9q4iVIfpcGtoqro\nNDmnkHB+zB27Z58gaI4Jb/3PYGS4XQl7bA8y00guPM35M5jksxCSfgix2FTTNDTh\nGUyeMnl8tQtTBbLltcS+2aEbruVU1j8w467IpWHFwQKBgC/RIfTDRgU8Jsmymj5I\nynBCpNNfqNoEdCRCUCvm4wVXcHkSVj6YZJaH7JUMZ9YIZc3+wR7J8FcGvm+MqI22\nl9zq9hpFzM0EhNoKuXmibyFqGxrGJNOuXbln1yRxTzD/4xKYx1OSIoIsYk4c95LA\nq9PPKuCxYs1f+J2rKaWVy4Ao\n-----END PRIVATE KEY-----\n",
+  "client_email": "heroku-twilio@twiliostorage.iam.gserviceaccount.com",
+  "client_id": "109049821452317206286",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/heroku-twilio%40twiliostorage.iam.gserviceaccount.com"
+}

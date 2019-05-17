@@ -1,0 +1,8 @@
+button.directions {
+    width: 100%;
+}
+button > a {
+    color: white !important;
+    font-size: 1.4rem;
+    font-weight: 900;
+}
