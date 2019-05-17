@@ -1,3 +1,5 @@
+***This project is the creation of Pat Herold.  I was one of the developers with him at the Georgia Tech Boot Camp and worked on the Authentication and the User Interface for Textador.  Please contact me for any questions about the App***
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
