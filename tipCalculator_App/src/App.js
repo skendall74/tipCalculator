@@ -4,7 +4,7 @@ import Tip from './component/Tip.js'
 import People from './component/People.js'
 import Amount from './component/Amount.js'
 import './index.css'
-import logo from './images/logo.svg'
+import logo from './images/logo.svg' 
 
 class App extends Component {
   constructor() {
