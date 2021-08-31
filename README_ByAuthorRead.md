@@ -24,12 +24,6 @@ Users should be able to:
 - View the content no matter the size of their screen.
 - Calculate the correct tip and total cost of the bill per person
 
-### Screenshot
-
-![image](/tipCalculator_App/design/desktop-design-completed.jpg)
-![image](/tipCalculator_App/design/mobile-design.jpg)
-
-
 ### Links
 
 - Solution URL: http://localhost:3000/skendall74/tipCalculatorApp 
